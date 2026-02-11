@@ -6,7 +6,7 @@
   <br />
   <a href="https://status.eggerco.com">Status</a>
   ·
-  <a href="https://www.discord.com/invite/egger">Discord</a>
+  <a href="https://www.discord.com/invite/eggerco">Discord</a>
   ·
   <a href="https://support.eggerco.com">Support</a>
 </p>
